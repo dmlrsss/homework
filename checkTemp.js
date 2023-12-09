@@ -5,6 +5,6 @@ function checkTemp(temperature) {
     return 0; 
   } else if (temperature >= 41 && temperature <= 60) {
     return 1; 
-  } else {
-  }
+  } 
 }
+
